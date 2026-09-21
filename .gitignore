@@ -1,0 +1,23 @@
+# Binaries
+/ntlmscout
+/ntlmscout.exe
+/dist/
+
+# Test / scan artifacts
+*.json
+*.ndjson
+*.csv
+*.log
+hosts.txt
+results.*
+
+# Go
+*.test
+*.out
+coverage.*
+
+# Editor / OS
+.DS_Store
+.idea/
+.vscode/
+*.swp
